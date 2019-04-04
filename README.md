@@ -2,7 +2,7 @@
 ## Getting Started
 
 ## 
-![test image size](foto1.png ):height="20%" width="50%"
+![test image size](foto1.png )
 <img src="foto1.png" alt="drawing" width="200"/>
 
 ![](foto1.png =250x40)
