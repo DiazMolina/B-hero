@@ -2,11 +2,19 @@
 ## Getting Started
 
 ## 
-![test image size](foto1.png )
-<img src="foto1.png" alt="drawing" width="200"/>
 
-![](foto1.png =250x40)
-<img src="foto1.png" width="200" height="200" />
+<img src="foto1.png" alt="img" width="200"/>
+<img src="foto2.png" alt="img" width="200"/>
+<img src="foto3.png" alt="img" width="200"/>
+<img src="foto4.png" alt="img" width="200"/>
+<img src="foto5.png" alt="img" width="200"/>
+<img src="foto6.png" alt="img" width="200"/>
+<img src="foto7.png" alt="img" width="200"/>
+<img src="foto8.png" alt="img" width="200"/>
+<img src="foto9.png" alt="img" width="200"/>
+<img src="foto10.png" alt="img" width="200"/>
+
+
 
 
 This project is a starting point for a Flutter application.
