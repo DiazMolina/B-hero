@@ -2,7 +2,7 @@
 ## Getting Started
 
 ## use phone model Huawei rio -L03
-missing correct for other screen sizes
+missing correction  for other screen sizes
 
 <img src="foto1.png" alt="img" width="200"/>
 <img src="foto2.png" alt="img" width="200"/>
